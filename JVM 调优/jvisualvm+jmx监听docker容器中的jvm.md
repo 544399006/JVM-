@@ -29,13 +29,13 @@ ENTRYPOINT java ${JVM_OPTS} -jar /app.jar
 
 * rancher 环境变量配置
 
-![](.\imgs\环境变量.png)
+![](./imgs/环境变量.png)
 
 
 
 * rancher 端口映射配置
 
-![](.\imgs\端口映射.png)
+![](./imgs/端口映射.png)
 
 
 
@@ -43,24 +43,24 @@ ENTRYPOINT java ${JVM_OPTS} -jar /app.jar
 
 注：jvisualvm 路径：D:\java\jdk1.8\jdk1.8.0_92\bin    这是我本机jdk路径  你们找到自己的jdk路径打开即可
 
-![](E:\学习\JVM 调优\JVM 调优\imgs\jvisualvm应用路径.png)
+![](./imgs/jvisualvm应用路径.png)
 
 * 连接步骤：
 
 步骤一
 
-![](E:\学习\JVM 调优\JVM 调优\imgs\jvisualvm-1.png)
+![](./imgs/jvisualvm-1.png)
 
 
 
 步骤二
 
-![](E:\学习\JVM 调优\JVM 调优\imgs\jvisualvm-2.png)
+![](./imgs/jvisualvm-2.png)
 
 步骤三
 
-![](E:\学习\JVM 调优\JVM 调优\imgs\jvisualvm-3.png)
+![](./imgs/jvisualvm-3.png)
 
 步骤四
 
-![](E:\学习\JVM 调优\JVM 调优\imgs\jvisualvm-4.png)
+![](./imgs/jvisualvm-4.png)

@@ -29,13 +29,13 @@ ENTRYPOINT java ${JVM_OPTS} -jar /app.jar
 
 * rancher 环境变量配置
 
-![](./imgs/环境变量.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/JVM环境变量.png)
 
 
 
 * rancher 端口映射配置
 
-![](./imgs/端口映射.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/端口映射.png)
 
 
 
@@ -43,24 +43,24 @@ ENTRYPOINT java ${JVM_OPTS} -jar /app.jar
 
 注：jvisualvm 路径：D:\java\jdk1.8\jdk1.8.0_92\bin    这是我本机jdk路径  你们找到自己的jdk路径打开即可
 
-![](./imgs/jvisualvm应用路径.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/jvisualvm应用路径.png)
 
 * 连接步骤：
 
 步骤一
 
-![](./imgs/jvisualvm-1.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/jvisualvm-1.png)
 
 
 
 步骤二
 
-![](./imgs/jvisualvm-2.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/jvisualvm-2.png)
 
 步骤三
 
-![](./imgs/jvisualvm-3.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/jvisualvm-3.png)
 
 步骤四
 
-![](./imgs/jvisualvm-4.png)
+![](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/jvisualvm-4.png)

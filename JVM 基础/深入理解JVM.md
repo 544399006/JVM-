@@ -38,4 +38,4 @@
 
    
 
-   ![](./imgs/jvm内存结构.png)
+   ![jvm内存结构](https://yizhiyong-note.oss-cn-shenzhen.aliyuncs.com/img/jvm内存结构.png)
